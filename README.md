@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Praise Markus</h1>
-<h3 align="center">Passionate about building trust and driving innovation in the blockchain space.</h3>
-<img align="right" alt"coding" width"400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENqHmmRXf4eKZsLmSx2E-4odiXy5fLxiLfw&usqp=CAU">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praizejr&label=Profile%20views&color=0e75b6&style=flat" alt="praizejr" /> </p>
+<div align="center">
+<h1>⚡ Praise Markus</h1>
+<h3>Building Intelligence Systems for Markets, Data & AI</h3>
+<p>
+Onchain Analytics • Data Engineering • AI Systems • MCP Development
+</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Building+Crypto+Intelligence+Systems;Researching+Onchain+Data;Developing+AI+Powered+Workflows;Learning+Machine+Learning+and+Quantitative+Methods;Building+MCP+Infrastructure" />
+</div>
